@@ -31,7 +31,7 @@ body {
 			
 .blank {height: 10px;}
 
-h1,h2 {
+h1,h2,h3 {
     font-family: 'Jost';
     text-align: center;
 	}
@@ -42,7 +42,7 @@ p ita {
             
 .desc {
 	margin-left: 12.5%;
-	text-align: justify;
+	text-align: center;
 	font-size: 16px;
 	font-style:italic;
 	color: gray;
@@ -56,3 +56,8 @@ video {
 	margin-bottom: 0%;
 	-webkit-box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
 	};
+
+.column {
+	width: 50%;
+	text-align: center;
+}
