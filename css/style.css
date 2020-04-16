@@ -21,7 +21,6 @@ a:active {color: rgba(0,110,255,1);}
 }
 
 body {
-	width: 1200px;
 	overflow: auto;
 	font-family: 'Jost';
 	text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
