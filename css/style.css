@@ -29,6 +29,10 @@ body {
 	font-size: 20px;
 	text-align: center;
 	}
+
+.maindiv {
+	width: 100%;
+}
 			
 .blank {height: 10px;}
 
