@@ -54,11 +54,11 @@ p ita {
 
 .rows {
 	display: inline-block;
-	width: 90%;
+	width: 100%;
 }
 
 .column {
-	width: 50%;
+	width: 40%;
 	text-align: center;
 	float: left;
 }
