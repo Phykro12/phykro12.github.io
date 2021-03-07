@@ -8,4 +8,9 @@ body {
 	text-align: center;
 	}
 
+.scores {
+	font-size: 15px;
+	font-style: italic;
+}
+
 .blank {height: 30px;}
